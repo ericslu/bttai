@@ -1,2 +1,2 @@
 # cornell
-Summer Onboarding Machine Learning Course Materials
+Break Through Tech: AI/Machine Learning Course
