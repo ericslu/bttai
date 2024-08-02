@@ -1,2 +1,2 @@
-# cornell
-Break Through Tech: AI/Machine Learning Course
+# bttai
+Break Through Tech: AI/Machine Learning Materials
